@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rubiravi
+# Hi 👋, I'm Kavirubini Ravichandran
 
 ### QA Automation Engineer | SDET
 
