@@ -1,72 +1,75 @@
 # Hi 👋, I'm Kavirubini Ravichandran
 
-### QA Automation Engineer | SDET
+### QA Professional | SDET | Test Automation Engineer
 
-I'm a QA professional focused on software quality, test automation, and building reliable and maintainable automation frameworks.
+I'm a QA professional focused on **software quality, test automation, and building reliable and maintainable automation frameworks**.
 
-## 🛠️ Skills
+Also focused on **building and delivering quality deliverables through Automotive SPICE (ASPICE) methodology**.
 
-### Test Automation
-- Playwright
-- Selenium
-- JavaScript
-- TestNG
-- Cucumber / BDD
-- API Testing
-- Postman
-- ASPICE
 
-### DevOps & Tools
-- Git & GitHub
-- Docker
-- Jenkins
-- CI/CD
-- VS Code
+## 🧪 QA & Automation Skills
 
-### Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- API Testing
-- Automation Testing
-- Defect Tracking
+* 🎭 Playwright with JavaScript
+* 🧪 Selenium & Test Automation
+* 🤖 Robot Framework
+* 🥒 Cucumber / BDD
+* 🔌 API Testing & Automation
+* 🧩 TestNG
+* 🏗️ Automation Framework Design
+* 📊 Software Quality & Process Improvement
+* 🚗 Automotive SPICE (ASPICE)
+
+## 🛠️ Tools & Technologies
+
+* **Languages:** JavaScript, Python, Ruby
+* **Automation:** Playwright, Selenium, Robot Framework
+* **API:** REST API Testing
+* **CI/CD:** Jenkins, Git
+* **Containers:** Docker
+* **Version Control:** Git & GitHub
+* **Testing:** Functional, Regression, Integration, API & UI Testing
+
+
+## 📚 Currently Learning
+
+* 🎭 Advanced Playwright & Test Automation
+* 🏗️ Automation Framework Design
+* 🐳 Docker & Containerization
+* 🔄 CI/CD & DevOps Practices
+* 🔌 API Test Automation
+* 🔍 SEO Fundamentals
+* 🎨 UI/UX Design
+
 
 ## 🚀 Featured Projects
 
 ### 🎭 Playwright Automation
 
-Web UI automation using Playwright and JavaScript.
+Automation framework built using **Playwright + JavaScript** with reusable test components and maintainable test structure.
 
-**Testing areas:**
-- Login automation
-- UI validation
-- Assertions
-- Locator strategies
-- Screenshots
-- Test reports
+### 🧪 Web Application Testing
 
-### 🧪 API Testing
+End-to-end automation of web applications covering login, navigation, form validation, and functional test scenarios.
 
-REST API testing and validation.
+### 🐳 Playwright + Docker
 
-**Testing areas:**
-- GET / POST / PUT / DELETE
-- Status code validation
-- Response validation
-- API assertions
-
-## 📚 Currently Learning
-
-- Advanced Playwright
-- Automation Framework Design
-- Docker
-- CI/CD
-- API Automation
-- SDET Best Practices
+Exploring containerized test execution using **Playwright and Docker**.
 
 ## 🎯 Career Focus
 
-QA Automation | SDET | Test Automation | Quality Engineering
+I'm continuously improving my skills in:
+
+**QA → Test Automation → SDET → Automation Frameworks → CI/CD → DevOps**
+
+My goal is to build scalable automation solutions that improve **quality, reliability, and delivery efficiency**.
+
+
+## 📫 Let's Connect
+
+I'm interested in connecting with QA professionals, SDETs, automation engineers, and technology enthusiasts.
+
+⭐ Feel free to explore my repositories and follow my learning journey!
+
 
 ## 📫 Connect With Me
 
